@@ -172,7 +172,7 @@
         }
         ,{
             "path" : "pages/product/list",
-            "style" : {
+           "style" : {
 				"enablePullDownRefresh": true,
 				"navigationBarTitleText": "商品列表"
 			}
